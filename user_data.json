@@ -1,4 +1,4 @@
 [
-  {"id":0,"username":"tester97","image_id":0,"points":666,"level":6,"items_amount":5},
-  {"id":1,"username":"xXregisterXx","image_id":1,"points":213,"level":2,"items_amount":9}
+  {"id":0,"email":"test@test.com","username":"tester97","image_id":0,"points":666,"level":6,"items_amount":5},
+  {"id":1,"email":"register@gmail.com","username":"xXregisterXx","image_id":1,"points":213,"level":2,"items_amount":9}
 ]
