@@ -1,4 +1,12 @@
 [
   {"id":0,"email":"test@test.com","username":"tester97","image_id":0,"points":666,"level":6,"items_amount":5},
-  {"id":1,"email":"register@gmail.com","username":"xXregisterXx","image_id":1,"points":213,"level":2,"items_amount":9}
+  {"id":1,"email":"register@gmail.com","username":"xXregisterXx","image_id":1,"points":213,"level":2,"items_amount":9},
+  {"id":2,"email":"cachop@gmail.com","username":"cachopo22","image_id":2,"points":569,"level":12,"items_amount":15},
+  {"id":3,"email":"elrusodeoro@gmail.com","username":"rusianIv","image_id":3,"points":156,"level":6,"items_amount":8},
+  {"id":4,"email":"ramonoide@gmail.com","username":"ramonoide","image_id":4,"points":542,"level":13,"items_amount":13},
+  {"id":5,"email":"victor@gmail.com","username":"camonciox","image_id":0,"points":311,"level":20,"items_amount":3},
+  {"id":6,"email":"kaladin@gmail.com","username":"kaladin","image_id":1,"points":592,"level":15,"items_amount":5},
+  {"id":7,"email":"dalinar@gmail.com","username":"dalinar","image_id":2,"points":744,"level":5,"items_amount":2},
+  {"id":8,"email":"sinper@gmail.com","username":"sniperCOD","image_id":3,"points":111,"level":8,"items_amount":7},
+  {"id":9,"email":"caloret@gmail.com","username":"ritaBarb","image_id":4,"points":852,"level":10,"items_amount":11}
 ]
