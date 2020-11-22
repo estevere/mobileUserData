@@ -1,0 +1,17 @@
+[
+  {"id": 0,"name":"the tower","description":"House of the lord of the lands, is big enough to see the sea from the top."},
+  {"id": 1,"name":"camoncio","description":"Magic place where all your dreams come true."},
+  {"id": 2,"name":"play station 6","description":"The console that Fran will never be able to play."},
+  {"id": 3,"name":"seminary","description":"This long document was written by a crazy russian years ago."},
+  {"id": 4,"name":"global variable","description":"A thing that you don't want to have in your code."},
+  {"id": 5,"name":"unfinished vector","description":"Corrupted item with a demon living inside. Only a few people can hold it."},
+  {"id": 6,"name":"lost RTX","description":"Only one person in the world know where it is."},
+  {"id": 7,"name":"sphere","description":"Object with an incredible amount of vertices."},
+  {"id": 8,"name":"machirial","description":"Use this item to multiply x1000 your english level."},
+  {"id": 9,"name":"magic gallato","description":"The holder of the magic gallato has the hability to cry a lot."},
+  {"id": 10,"name":"disctinction","description":"If you are the chosen one, you will be able to earn one of this."},
+  {"id": 11,"name":"bombardino","description":"Sounds incredibly loud from the back of your ear."},
+  {"id": 12,"name":"power piolas","description":"If your microphone doesn't work, use a pair of this."},
+  {"id": 13,"name":"burned golem","description":"Ancient god of a lost civilization. You don't want to annoy him."},
+  {"id": 14,"name":"bloom barrier","description":"This item has te hability to reject all the good game design ideas."}
+]
